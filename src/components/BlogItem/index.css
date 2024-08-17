@@ -1,0 +1,26 @@
+.title-and-date {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.list-title {
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: 600;
+  color: #12022f;
+}
+
+.list-date {
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #9aa5b1;
+}
+
+.list-description {
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #616e7c;
+}
